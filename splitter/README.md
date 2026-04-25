@@ -59,3 +59,4 @@ Valor total da conta com gorjeta: R$ 6787.00
 O valor total dividido por pessoa ficou R$ 754.11
 Cada pessoa deve pagar R$ 754.11
 ```
+**Este script foi feito com base em um exercício da plataforma, mas modificado para aplicar o conceito estudado de "f string"**
